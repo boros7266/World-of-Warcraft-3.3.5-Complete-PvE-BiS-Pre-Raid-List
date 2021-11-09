@@ -1,8 +1,9 @@
+# Druid BiS List
 ## Feral Druid DPS
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|----------------------------------------------------------------------------------------|----------------------------|
 | Head            | [Sanctified Lasherweave Headguard](https://wotlk.evowow.com/?item=51296)               | Vendor                     |
-| Neck            | [Sindragosa's Cruel Claw](https://wotlk.evowow.com/?item=50633)                        | Sindragosa 25HC            |
+| Neck            | [Pendant of the Outcast Hero](https://wotlk.evowow.com/?item=40678)                    | Vendor                     |
 | Shoulders       | [Sanctified Lasherweave Shoulderpads](https://wotlk.evowow.com/?item=51299)            | Vendor                     |
 | Back            | [Shadowvault Slayer's Cloak](https://wotlk.evowow.com/?item=50653)                     | Gunship Battle 25HC        |
 | Back (Alt)      | [Vereesa's Dexterity](https://wotlk.evowow.com/?item=47545)                            | TOGC 25 Insanity 50        |
