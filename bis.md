@@ -18,3 +18,7 @@
 | Trinket         | [Mirror of Truth](https://wotlk.evowow.com/?item=40684)                                | HC - 40x                   |
 | Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | HC - Violet Hold           |
 | Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | HC - 25x                   |
+
+## Restoration Druid
+
+## Balance Druid
