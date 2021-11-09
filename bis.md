@@ -2,24 +2,19 @@
 ## Feral Druid DPS
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|----------------------------------------------------------------------------------------|----------------------------|
-| Head            | [Sanctified Lasherweave Headguard](https://wotlk.evowow.com/?item=51296)               | Vendor                     |
+| Head            | [Weakness Spectralizers](https://wotlk.evowow.com/?item=42550)                         | Engeneering                |
 | Neck            | [Pendant of the Outcast Hero](https://wotlk.evowow.com/?item=40678)                    | Vendor                     |
-| Shoulders       | [Sanctified Lasherweave Shoulderpads](https://wotlk.evowow.com/?item=51299)            | Vendor                     |
-| Back            | [Shadowvault Slayer's Cloak](https://wotlk.evowow.com/?item=50653)                     | Gunship Battle 25HC        |
-| Back (Alt)      | [Vereesa's Dexterity](https://wotlk.evowow.com/?item=47545)                            | TOGC 25 Insanity 50        |
-| Chest           | [Sanctified Lashwerweave Raiment](https://wotlk.evowow.com/?item=51298)                | Vendor                     |
-| Wrists          | [Toskk's Maximised Wristguards](https://wotlk.evowow.com/?item=50670)                  | Deathbringer Saurfang 25HC |
-| Wrists (Alt)    | [Umbrage Armbands](https://wotlk.evowow.com/?item=54580)                               | Halion 25HC                |
-| Hands           | [Aldriana's Gloves of Secrecy](https://wotlk.evowow.com/?item=50675)                   | Rotface 25HC               |
-| Waist           | [Astrylian's Sutured Cinch](https://wotlk.evowow.com/?item=50707)                      | Professor Putricide 25HC   |
-| Waist (Alt)     | [Vengeful Noose](https://wotlk.evowow.com/?item=50995)                                 | Vendor                     |
-| Legs            | [Sanctified Lasherweave Legguards](https://wotlk.evowow.com/?item=51297)               | Vendor                     |
-| Feet            | [Frostbitten Fur Boots](https://wotlk.evowow.com/?item=50607)                          | Marrowgar 25HC             |
-| Feet (Alt)      | [Footpads of Impending Death](https://wotlk.evowow.com/?item=49895)                    | Crafted                    |
-| Finger          | [Frostbrood Sapphire Ring](https://wotlk.evowow.com/?item=50618)                       | Valithria Dreamwalker 25HC |
-| Finger (Alt)    | [Signet of Twilight](https://wotlk.evowow.com/?item=54576)                             | Halion 25HC                |
-| Finger          | [Ashen Band of Endless Vengeance](https://wotlk.evowow.com/?item=50402)                | ICC Reputation             |
-| Trinket         | [Deathbringer's Will](https://wotlk.evowow.com/?item=50363)                            | Deathbringer Saurfang 25HC |
-| Trinket         | [Sharpened Twilight Scale](https://wotlk.evowow.com/?item=54590)                       | Halion 25HC                |
-| Main Hand       | [Oathbinder, Charge of the Range-General](https://wotlk.evowow.com/?item=50735)        | Lich King 25HC             |
-| Idol            | [Idol of the Crying Moon](https://wotlk.evowow.com/?item=50456)                        | Vendor                     |
+| Shoulders       | [Spaulders of the Careless Thief](https://wotlk.evowow.com/?item=37139)                | HC - Nexus                 |
+| Back            | [Cloak of the Gushing Wound](https://wotlk.evowow.com/?item=43406)                     | HC - Violet Hold           |
+| Chest           | [Heroes' Dreamwalker Raiments](https://wotlk.evowow.com/?item=39554)                   | HC - 80x                   |
+| Wrists          | [Dragonfriend Bracers](https://wotlk.evowow.com/?item=44203)                           | Reputation - Wyrmrest      |
+| Hands           | [Heroes' Dreamwalker Handgrips](https://wotlk.evowow.com/?item=39557)                  | HC - 80x                   |
+| Waist           | [Sharp-Barbed Leather Belt](https://wotlk.evowow.com/?item=37194)                      | HC - 40x                   |
+| Legs            | [Gored Hide Legguards](https://wotlk.evowow.com/?item=37644)                           | HC - Gundrak               |
+| Feet            | [Boots of the Neverending Path](https://wotlk.evowow.com/?item=44297)                  | Reputation - Argent        |
+| Finger          | [Mobius Band](https://wotlk.evowow.com/?item=37685)                                    | HC - COS                   |
+| Finger          | [Hemorrhaging Circle](https://wotlk.evowow.com/?item=37642)                            | HC - Gundrak               |
+| Trinket         | [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)                            | HC - UP                    |
+| Trinket         | [Mirror of Truth](https://wotlk.evowow.com/?item=40684)                                | HC - 40x                   |
+| Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | HC - Violet Hold           |
+| Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | HC - 25x                   |
