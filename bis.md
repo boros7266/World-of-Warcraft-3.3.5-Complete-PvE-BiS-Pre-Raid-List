@@ -20,5 +20,23 @@
 | Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | HC - 25x                   |
 
 ## Restoration Druid
+|  Slot           | Name                                                                                   | Source                     |
+|-----------------|----------------------------------------------------------------------------------------|----------------------------|
+| Head            | [Helm of Anomalus](https://wotlk.evowow.com/?item=37149)                               | HC - The Nexus                |
+| Neck            | [Necromancer's Amulet](https://wotlk.evowow.com/?item=40678)                           | HC - The COS               |
+| Shoulders       | [Dark Runic Mantle](https://wotlk.evowow.com/?item=37673)                              | BOE                        |
+| Back            | [Ancient Dragon Spirit Cape](https://wotlk.evowow.com/?item=37291)                     | HC - The Oculus            |
+| Chest           | [Insect Vestments](https://wotlk.evowow.com/?item=37236)                               | HC - Azjon Nerub           |
+| Wrists          | [Cuffs of Winged Levitation](https://wotlk.evowow.com/?item=37361)                     | Hc - Oculus                |
+| Hands           | [Silken Bridge Handwraps](https://wotlk.evowow.com/?item=43287)                        | HC - The Old Kingdom       |
+| Waist           | [Sash of Blood Removal](https://wotlk.evowow.com/?item=37643)                          | HC - Gundrak               |
+| Legs            | [Leggings of the Winged Serpent](https://wotlk.evowow.com/?item=37791)                 | HC - DTK                   |
+| Feet            | [Sandals of Crimson Fury](https://wotlk.evowow.com/?item=44202)                        | Reputation - Wyrmrest      |
+| Finger          | [Band of Guile](https://wotlk.evowow.com/?item=37694)                                  | HC - The COS               |
+| Finger          | [Signet of Hopeful Light](https://wotlk.evowow.com/?item=37642)                        | Reputation - Argent Crusade|
+| Trinket         | [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)                            | HC - UP                    |
+| Trinket         | [Pendulum of Telluric Currents](https://wotlk.evowow.com/?item=37264)                  | HC - The Oculus            |
+| Main Hand       | [Staff of Draconic Combat](https://wotlk.evowow.com/?item=37360)                       | HC - The Oculus            |
+| Idol            | [Idol of Pure Thoughts](https://wotlk.evowow.com/?item=38366)                          | Nagrand Quest              |
 
 ## Balance Druid
