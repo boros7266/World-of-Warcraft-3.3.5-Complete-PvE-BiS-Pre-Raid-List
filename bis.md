@@ -37,6 +37,6 @@
 | Trinket         | [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)                            | HC - UP                    |
 | Trinket         | [Pendulum of Telluric Currents](https://wotlk.evowow.com/?item=37264)                  | HC - The Oculus            |
 | Main Hand       | [Staff of Draconic Combat](https://wotlk.evowow.com/?item=37360)                       | HC - The Oculus            |
-| Idol            | [Idol of Pure Thoughts](https://wotlk.evowow.com/?item=38366)                          | Nagrand Quest              |
+| Idol            | [Harold's Rejuvenating Broach](https://wotlk.evowow.com/?item=25643)                   | Nagrand Quest              |
 
 ## Balance Druid
