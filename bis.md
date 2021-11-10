@@ -19,8 +19,6 @@
 | Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | The Violet Hold HC             | 200                        |
 | Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | Emblem of Heroism(15x)         | 200                        |
 
-**Trinket Alternative Options Breakdown:**
-
 |  Other Viable Options    |
 |--------------------------|
 | [Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253) > [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)    |
@@ -29,23 +27,23 @@
 [Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Feral_DPS_Pre_Naxx.xml)
 
 ## Restoration Druid
-|  Slot           | Name                                                                                   | Source                     |
-|-----------------|----------------------------------------------------------------------------------------|----------------------------|
-| Head            | [Helm of Anomalus](https://wotlk.evowow.com/?item=37149)                               | HC - The Nexus             |
-| Neck            | [Necromancer's Amulet](https://wotlk.evowow.com/?item=40678)                           | HC - The COS               |
-| Shoulders       | [Dark Runic Mantle](https://wotlk.evowow.com/?item=37673)                              | BOE                        |
-| Back            | [Ancient Dragon Spirit Cape](https://wotlk.evowow.com/?item=37291)                     | HC - The Oculus            |
-| Chest           | [Insect Vestments](https://wotlk.evowow.com/?item=37236)                               | HC - Azjon Nerub           |
-| Wrists          | [Cuffs of Winged Levitation](https://wotlk.evowow.com/?item=37361)                     | Hc - Oculus                |
-| Hands           | [Silken Bridge Handwraps](https://wotlk.evowow.com/?item=43287)                        | HC - The Old Kingdom       |
-| Waist           | [Sash of Blood Removal](https://wotlk.evowow.com/?item=37643)                          | HC - Gundrak               |
-| Legs            | [Leggings of the Winged Serpent](https://wotlk.evowow.com/?item=37791)                 | HC - DTK                   |
-| Feet            | [Sandals of Crimson Fury](https://wotlk.evowow.com/?item=44202)                        | Reputation - Wyrmrest      |
-| Finger          | [Band of Guile](https://wotlk.evowow.com/?item=37694)                                  | HC - The COS               |
-| Finger          | [Signet of Hopeful Light](https://wotlk.evowow.com/?item=37642)                        | Reputation - Argent Crusade|
-| Trinket         | [Spark of Life](https://wotlk.evowow.com/?item=37657)                                  | HC - HOS                   |
-| Trinket         | [Pendulum of Telluric Currents](https://wotlk.evowow.com/?item=37264)                  | HC - The Oculus            |
-| Main Hand       | [Staff of Draconic Combat](https://wotlk.evowow.com/?item=37360)                       | HC - The Oculus            |
-| Idol            | [Harold's Rejuvenating Broach](https://wotlk.evowow.com/?item=25643)                   | Nagrand Quest              |
+|  Slot           | Name                                                                                   | Source                         | iLv                        |
+|-----------------|----------------------------------------------------------------------------------------|--------------------------------|----------------------------|
+| Head            | [Helm of Anomalus](https://wotlk.evowow.com/?item=37149)                               | The Nexus HC                   | 200                        |
+| Neck            | [Necromancer's Amulet](https://wotlk.evowow.com/?item=40678)                           | The Culling of Stratholme HC   | 200                        |
+| Shoulders       | [Dark Runic Mantle](https://wotlk.evowow.com/?item=37673)                              | BOE Halls of Stone HC          | 200                        |
+| Back            | [Ancient Dragon Spirit Cape](https://wotlk.evowow.com/?item=37291)                     | The Oculus HC                  | 200                        |
+| Chest           | [Insect Vestments](https://wotlk.evowow.com/?item=37236)                               | Azjon-Nerub HC                 | 200                        |
+| Wrists          | [Cuffs of Winged Levitation](https://wotlk.evowow.com/?item=37361)                     | The Oculus HC                  | 200                        |
+| Hands           | [Silken Bridge Handwraps](https://wotlk.evowow.com/?item=43287)                        | The Old Kingdom HC             | 200                        |
+| Waist           | [Sash of Blood Removal](https://wotlk.evowow.com/?item=37643)                          | Gundrak HC                     | 200                        |
+| Legs            | [Leggings of the Winged Serpent](https://wotlk.evowow.com/?item=37791)                 | HC - Dark'Tharon Keep          | 200                        |
+| Feet            | [Sandals of Crimson Fury](https://wotlk.evowow.com/?item=44202)                        | Reputation - Wyrmrest          | 200                        |
+| Finger          | [Band of Guile](https://wotlk.evowow.com/?item=37694)                                  | The Culling of Stratholme HC   | 200                        |
+| Finger          | [Signet of Hopeful Light](https://wotlk.evowow.com/?item=37642)                        | Argent Crusade Rep             | 200                        |
+| Trinket         | [Spark of Life](https://wotlk.evowow.com/?item=37657)                                  | Halls of Stone HC              | 200                        |
+| Trinket         | [Pendulum of Telluric Currents](https://wotlk.evowow.com/?item=37264)                  | The Oculus HC                  | 200                        |
+| Main Hand       | [Staff of Draconic Combat](https://wotlk.evowow.com/?item=37360)                       | The Oculus HC                  | 200                        |
+| Idol            | [Harold's Rejuvenating Broach](https://wotlk.evowow.com/?item=25643)                   | Nagrand Quest                  | 150                        |
 
 ## Balance Druid
