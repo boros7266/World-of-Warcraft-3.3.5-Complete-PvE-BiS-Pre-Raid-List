@@ -21,7 +21,7 @@
 
 |  Other Viable Options    |
 |--------------------------|
-| [Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253) > [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)    |
+| [Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253)  |
 
 **Rawr:**
 [Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Feral_DPS_Pre_Naxx.xml)
@@ -45,5 +45,13 @@
 | Trinket         | [Pendulum of Telluric Currents](https://wotlk.evowow.com/?item=37264)                  | The Oculus HC                  | 200                        |
 | Main Hand       | [Staff of Draconic Combat](https://wotlk.evowow.com/?item=37360)                       | The Oculus HC                  | 200                        |
 | Idol            | [Harold's Rejuvenating Broach](https://wotlk.evowow.com/?item=25643)                   | Nagrand Quest                  | 150                        |
+
+|  Other Viable Options                                                             | Purpose             |
+|-----------------------------------------------------------------------------------|---------------------|
+| [Soul Preserver](https://wotlk.evowow.com/?item=37111)                            | Mana Management     |
+| [Figurine - Sapphire Owl](https://wotlk.evowow.com/?item=42413)                            | Mana Management     |
+
+**Rawr:**
+[Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Resto_Pre_Naxx.xml)
 
 ## Balance Druid
