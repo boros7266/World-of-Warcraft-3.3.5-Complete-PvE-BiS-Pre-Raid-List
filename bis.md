@@ -24,11 +24,8 @@
 |  Other Viable Options    |
 |--------------------------|
 | [Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253) > [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)    |
-| Corroded Skeleton Key    |
-| Corpse Tongue Coin       |
 
 **Rawr:**
-
 [Download Rawr_File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Feral_DPS_Pre_Naxx.xml)
 
 ## Restoration Druid
