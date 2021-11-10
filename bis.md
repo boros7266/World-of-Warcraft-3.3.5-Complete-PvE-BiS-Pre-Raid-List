@@ -83,3 +83,8 @@
 
 **Rawr:**
 [Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Balance_Pre_Naxx.xml)
+
+# Shaman BiS List
+## Elemental Shaman
+## Restoration Shaman
+## Enhancement Shaman
