@@ -1,23 +1,23 @@
 # Druid BiS List
 ## Feral Druid DPS
-|  Slot           | Name                                                                                   | Source                     | iLv                        |
-|-----------------|----------------------------------------------------------------------------------------|----------------------------|----------------------------|
-| Head            | [Weakness Spectralizers](https://wotlk.evowow.com/?item=42550)                         | Engeneering                | 200                        |
-| Neck            | [Pendant of the Outcast Hero](https://wotlk.evowow.com/?item=40678)                    | Vendor                     | 200                        |
-| Shoulders       | [Spaulders of the Careless Thief](https://wotlk.evowow.com/?item=37139)                | HC - Nexus                 | 200                        |
-| Back            | [Cloak of the Gushing Wound](https://wotlk.evowow.com/?item=43406)                     | HC - Violet Hold           | 200                        |
-| Chest           | [Heroes' Dreamwalker Raiments](https://wotlk.evowow.com/?item=39554)                   | HC - 80x                   | 200                        |
-| Wrists          | [Dragonfriend Bracers](https://wotlk.evowow.com/?item=44203)                           | Reputation - Wyrmrest      | 200                        |
-| Hands           | [Heroes' Dreamwalker Handgrips](https://wotlk.evowow.com/?item=39557)                  | HC - 80x                   | 200                        |
-| Waist           | [Sharp-Barbed Leather Belt](https://wotlk.evowow.com/?item=37194)                      | HC - 40x                   | 200                        |
-| Legs            | [Gored Hide Legguards](https://wotlk.evowow.com/?item=37644)                           | HC - Gundrak               | 200                        |
-| Feet            | [Boots of the Neverending Path](https://wotlk.evowow.com/?item=44297)                  | Reputation - Argent        | 200                        |
-| Finger          | [Mobius Band](https://wotlk.evowow.com/?item=37685)                                    | HC - COS                   | 200                        |
-| Finger          | [Hemorrhaging Circle](https://wotlk.evowow.com/?item=37642)                            | HC - Gundrak               | 200                        |
-| Trinket         | [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)                            | HC - UP                    | 200                        |
-| Trinket         | [Mirror of Truth](https://wotlk.evowow.com/?item=40684)                                | HC - 40x                   | 200                        |
-| Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | HC - Violet Hold           | 200                        |
-| Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | HC - 25x                   | 200                        |
+|  Slot           | Name                                                                                   | Source                         | iLv                        |
+|-----------------|----------------------------------------------------------------------------------------|--------------------------------|----------------------------|
+| Head            | [Weakness Spectralizers](https://wotlk.evowow.com/?item=42550)                         | Engeneering (400)              | 200                        |
+| Neck            | [Pendant of the Outcast Hero](https://wotlk.evowow.com/?item=40678)                    | Emblem of Heroism(25x)         | 200                        |
+| Shoulders       | [Spaulders of the Careless Thief](https://wotlk.evowow.com/?item=37139)                | The Nexus HC                   | 200                        |
+| Back            | [Cloak of the Gushing Wound](https://wotlk.evowow.com/?item=43406)                     | The Violet Hold HC             | 200                        |
+| Chest           | [Heroes' Dreamwalker Raiments](https://wotlk.evowow.com/?item=39554)                   | Emblem of Heroism(80x)         | 200                        |
+| Wrists          | [Dragonfriend Bracers](https://wotlk.evowow.com/?item=44203)                           | The Wyrmrest Accord Rep        | 200                        |
+| Hands           | [Heroes' Dreamwalker Handgrips](https://wotlk.evowow.com/?item=39557)                  | Emblem of Heroism(60x)         | 200                        |
+| Waist           | [Sharp-Barbed Leather Belt](https://wotlk.evowow.com/?item=37194)                      | Emblem of Heroism(40x)         | 200                        |
+| Legs            | [Gored Hide Legguards](https://wotlk.evowow.com/?item=37644)                           | Gundrak HC                     | 200                        |
+| Feet            | [Boots of the Neverending Path](https://wotlk.evowow.com/?item=44297)                  | Argent Crusade Rep             | 200                        |
+| Finger          | [Mobius Band](https://wotlk.evowow.com/?item=37685)                                    | The Culling of Stratholme HC   | 200                        |
+| Finger          | [Hemorrhaging Circle](https://wotlk.evowow.com/?item=37642)                            | Gundrak HC                     | 200                        |
+| Trinket         | [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)                            | Utgarde Keep HC                | 200                        |
+| Trinket         | [Mirror of Truth](https://wotlk.evowow.com/?item=40684)                                | Emblem of Heroism(40x)         | 200                        |
+| Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | The Violet Hold HC             | 200                        |
+| Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | Emblem of Heroism(15x)         | 200                        |
 
 **Trinket Alternative Options Breakdown:**
 
@@ -26,7 +26,7 @@
 | [Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253) > [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)    |
 
 **Rawr:**
-[Download Rawr_File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Feral_DPS_Pre_Naxx.xml)
+[Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Feral_DPS_Pre_Naxx.xml)
 
 ## Restoration Druid
 |  Slot           | Name                                                                                   | Source                     |
