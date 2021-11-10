@@ -28,7 +28,7 @@
 | Corpse Tongue Coin       |
 
 **Rawr:**
-[download this](Rawr_Files/Feral_DPS_Pre_Naxx.xml)
+[download this](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Feral_DPS_Pre_Naxx.xml)
 
 ## Restoration Druid
 |  Slot           | Name                                                                                   | Source                     |
