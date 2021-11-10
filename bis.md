@@ -1,23 +1,23 @@
 # Druid BiS List
 ## Feral Druid DPS
-|  Slot           | Name                                                                                   | Source                     || Source                     |
-|-----------------|----------------------------------------------------------------------------------------|----------------------------||----------------------------|
-| Head            | [Weakness Spectralizers](https://wotlk.evowow.com/?item=42550)                         | Engeneering                || Engeneering                |
-| Neck            | [Pendant of the Outcast Hero](https://wotlk.evowow.com/?item=40678)                    | Vendor                     || Vendor                     |
-| Shoulders       | [Spaulders of the Careless Thief](https://wotlk.evowow.com/?item=37139)                | HC - Nexus                 || HC - Nexus                 |
-| Back            | [Cloak of the Gushing Wound](https://wotlk.evowow.com/?item=43406)                     | HC - Violet Hold           || HC - Violet Hold           |
-| Chest           | [Heroes' Dreamwalker Raiments](https://wotlk.evowow.com/?item=39554)                   | HC - 80x                   || HC - 80x                   |
-| Wrists          | [Dragonfriend Bracers](https://wotlk.evowow.com/?item=44203)                           | Reputation - Wyrmrest      || Reputation - Wyrmrest      |
-| Hands           | [Heroes' Dreamwalker Handgrips](https://wotlk.evowow.com/?item=39557)                  | HC - 80x                   || HC - 80x                   |
-| Waist           | [Sharp-Barbed Leather Belt](https://wotlk.evowow.com/?item=37194)                      | HC - 40x                   || HC - 40x                   |
-| Legs            | [Gored Hide Legguards](https://wotlk.evowow.com/?item=37644)                           | HC - Gundrak               || HC - Gundrak               |
-| Feet            | [Boots of the Neverending Path](https://wotlk.evowow.com/?item=44297)                  | Reputation - Argent        || HC - Gundrak               |
-| Finger          | [Mobius Band](https://wotlk.evowow.com/?item=37685)                                    | HC - COS                   || HC - Gundrak               |
-| Finger          | [Hemorrhaging Circle](https://wotlk.evowow.com/?item=37642)                            | HC - Gundrak               || HC - Gundrak               |
-| Trinket         | [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)                            | HC - UP                    || HC - Gundrak               |
-| Trinket         | [Mirror of Truth](https://wotlk.evowow.com/?item=40684)                                | HC - 40x                   || HC - Gundrak               |
-| Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | HC - Violet Hold           || HC - Gundrak               |
-| Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | HC - 25x                   || HC - Gundrak               |
+|  Slot           | Name                                                                                   | Source                     | Source                     |
+|-----------------|----------------------------------------------------------------------------------------|----------------------------|----------------------------|
+| Head            | [Weakness Spectralizers](https://wotlk.evowow.com/?item=42550)                         | Engeneering                | Engeneering                |
+| Neck            | [Pendant of the Outcast Hero](https://wotlk.evowow.com/?item=40678)                    | Vendor                     | Vendor                     |
+| Shoulders       | [Spaulders of the Careless Thief](https://wotlk.evowow.com/?item=37139)                | HC - Nexus                 | HC - Nexus                 |
+| Back            | [Cloak of the Gushing Wound](https://wotlk.evowow.com/?item=43406)                     | HC - Violet Hold           | HC - Violet Hold           |
+| Chest           | [Heroes' Dreamwalker Raiments](https://wotlk.evowow.com/?item=39554)                   | HC - 80x                   | HC - 80x                   |
+| Wrists          | [Dragonfriend Bracers](https://wotlk.evowow.com/?item=44203)                           | Reputation - Wyrmrest      | Reputation - Wyrmrest      |
+| Hands           | [Heroes' Dreamwalker Handgrips](https://wotlk.evowow.com/?item=39557)                  | HC - 80x                   | HC - 80x                   |
+| Waist           | [Sharp-Barbed Leather Belt](https://wotlk.evowow.com/?item=37194)                      | HC - 40x                   | HC - 40x                   |
+| Legs            | [Gored Hide Legguards](https://wotlk.evowow.com/?item=37644)                           | HC - Gundrak               | HC - Gundrak               |
+| Feet            | [Boots of the Neverending Path](https://wotlk.evowow.com/?item=44297)                  | Reputation - Argent        | HC - Gundrak               |
+| Finger          | [Mobius Band](https://wotlk.evowow.com/?item=37685)                                    | HC - COS                   | HC - Gundrak               |
+| Finger          | [Hemorrhaging Circle](https://wotlk.evowow.com/?item=37642)                            | HC - Gundrak               | HC - Gundrak               |
+| Trinket         | [Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)                            | HC - UP                    | HC - Gundrak               |
+| Trinket         | [Mirror of Truth](https://wotlk.evowow.com/?item=40684)                                | HC - 40x                   | HC - Gundrak               |
+| Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | HC - Violet Hold           | HC - Gundrak               |
+| Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | HC - 25x                   | HC - Gundrak               |
 
 ## Restoration Druid
 |  Slot           | Name                                                                                   | Source                     |
