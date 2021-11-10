@@ -19,6 +19,14 @@
 | Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | HC - Violet Hold           | 200                        |
 | Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | HC - 25x                   | 200                        |
 
+**Trinket Alternative Options Breakdown:**
+
+|  Other Viable Options    |
+|--------------------------|
+| [Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253)>[Meteorite Whetstone](https://wotlk.evowow.com/?item=37390)    |
+| Corroded Skeleton Key    |
+| Corpse Tongue Coin       |
+
 ## Restoration Druid
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|----------------------------------------------------------------------------------------|----------------------------|
