@@ -19,9 +19,9 @@
 | Main Hand       | [Staff of Trickery](https://wotlk.evowow.com/?item=37883)                              | The Violet Hold HC             | 200                        |
 | Idol            | [Idol of the Ravenous Beast](https://wotlk.evowow.com/?item=40713)                     | Emblem of Heroism(15x)         | 200                        |
 
-|  Other Viable Options    |
-|--------------------------|
-| [Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253)  |
+|  Slot           |  Other Viable Options                                            |
+|-----------------|------------------------------------------------------------------|
+| Trinket         |[Darkmoon Card: Greatness](https://wotlk.evowow.com/?item=44253)  |
 
 **Rawr:**
 [Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Feral_DPS_Pre_Naxx.xml)
@@ -46,10 +46,10 @@
 | Main Hand       | [Staff of Draconic Combat](https://wotlk.evowow.com/?item=37360)                       | The Oculus HC                  | 200                        |
 | Idol            | [Harold's Rejuvenating Broach](https://wotlk.evowow.com/?item=25643)                   | Nagrand Quest                  | 150                        |
 
-|  Other Viable Options                                                             | Purpose             |
-|-----------------------------------------------------------------------------------|---------------------|
-| [Soul Preserver](https://wotlk.evowow.com/?item=37111)                            | Mana Management     |
-| [Figurine - Sapphire Owl](https://wotlk.evowow.com/?item=42413)                            | Mana Management     |
+|  Slot           |  Other Viable Options                                                             | Purpose             |
+|-----------------|-----------------------------------------------------------------------------------|---------------------|
+| Trinket         | [Soul Preserver](https://wotlk.evowow.com/?item=37111)                            | Mana Management     |
+| Trinket         | [Figurine - Sapphire Owl](https://wotlk.evowow.com/?item=42413)                   | Mana Management     |
 
 **Rawr:**
 [Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Resto_Pre_Naxx.xml)
