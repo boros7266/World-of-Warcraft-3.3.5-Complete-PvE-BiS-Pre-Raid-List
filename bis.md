@@ -86,5 +86,34 @@
 
 # Shaman BiS List
 ## Elemental Shaman
+|  Slot           | Name                                                                                   | Source                         | iLv                        |
+|-----------------|----------------------------------------------------------------------------------------|--------------------------------|----------------------------|
+| Head            | [Electroflux Sight Enhancers](https://wotlk.evowow.com/?item=42555)                    | Engeneering (400)              | 200                        |
+| Neck            | [Titanium Spellshock Necklace](https://wotlk.evowow.com/?item=42647)                   | BOE Jewelcrafting              | 200                        |
+| Shoulders       | [Amice of the Convoker](https://wotlk.evowow.com/?item=34210)                          | Sunwell Plateau Twins          | 159                        |
+| Back            | [Deathchill Cloak](https://wotlk.evowow.com/?item=41610)                               | BOE Tailoring                  | 200                        |
+| Chest           | [Heroes' Earthshatter Hauberk](https://wotlk.evowow.com/?item=39592)                   | Emblem of Heroism(80x)         | 200                        |
+| Wrists          | [Limb Regeneration Bracers](https://wotlk.evowow.com/?item=37788)                      | Dark'Tharon Keep HC            | 200                        |
+| Hands           | [Spellweave Gloves](https://wotlk.evowow.com/?item=42113)                              | BOE Tailoring                  | 200                        |
+| Waist           | [Plush Sash of Guzbah](https://wotlk.evowow.com/?item=40696)                           | Emblem of Heroism(40x)         | 200                        |
+| Legs            | [Leggings of Calamity](https://wotlk.evowow.com/?item=34181)                           | Sunwell Plateau Brutallus      | 159                        |
+| Feet            | [Sandals of Crimson Fury](https://wotlk.evowow.com/?item=44202)                        | The Wyrmrest Accord Rep        | 200                        |
+| Finger          | [Annhylde's Ring](https://wotlk.evowow.com/?item=37192)                                | Utgarde Keep HC                | 200                        |
+| Finger          | [Band of Guile](https://wotlk.evowow.com/?item=37694)                                  | The Culling of Stratholme HC   | 200                        |
+| Trinket         | [Mark of the War Prisoner](https://wotlk.evowow.com/?item=37873)                       | The Violet Hold HC             | 200                        |
+| Trinket         | [Sundial of the Exiled](https://wotlk.evowow.com/?item=40682)                          | Emblem of Heroism(40x)         | 200                        |
+| Main Hand       | [Titansteel Spellblade](https://wotlk.evowow.com/?item=45085)                          | BOE Blacksmithing              | 200                        |
+| Off Hand        | [Ward of the Violet Citadel](https://wotlk.evowow.com/?item=40698)                     | Emblem of Heroism(25x)         | 200                        |
+| Totem           | [Totem of Hex](https://wotlk.evowow.com/?item=40267)                                   | Emblem of Valor(25x)           | 213                        |
+
+|  Slot           |  Other Viable Options                                                             | Purpose             |
+|-----------------|-----------------------------------------------------------------------------------|---------------------|
+| Neck            | [Necklace of Taldaram](https://wotlk.evowow.com/?item=37595)                      | Hit                 |
+| Shoulders       | [Dark Runic Mantle](https://wotlk.evowow.com/?item=37673)                         | If No TBC           |
+| Hands           | [Ebonweave Gloves](https://wotlk.evowow.com/?item=42111)                          | Hit                 |
+| Legs            | [Leggings of the Winged Serpent](https://wotlk.evowow.com/?item=37791)            | If No TBC           |
+| Main Hand       | [Titansteel Guardian](https://wotlk.evowow.com/?item=41384)                       | More Sp (No Hit)    |
+| Totem           | [Venture Co. Flame Slicer](https://wotlk.evowow.com/?item=38367)                  | If No Valors        |
+
 ## Restoration Shaman
 ## Enhancement Shaman
