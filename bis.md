@@ -115,5 +115,7 @@
 | Main Hand       | [Titansteel Guardian](https://wotlk.evowow.com/?item=41384)                       | More Sp (No Hit)    |
 | Totem           | [Venture Co. Flame Slicer](https://wotlk.evowow.com/?item=38367)                  | If No Valors        |
 
+[Download Rawr File](https://downgit.github.io/#/home?url=https://github.com/boros7266/World-of-Warcraft-3.3.5-Complete-PvE-BiS-Pre-Raid-List/blob/main/Rawr_Files/Elemental_Pre_Naxx.xml)
+
 ## Restoration Shaman
 ## Enhancement Shaman
