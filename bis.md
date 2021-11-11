@@ -40,7 +40,7 @@
 | Legs            | [Leggings of the Winged Serpent](https://wotlk.evowow.com/?item=37791)                 | Dark'Tharon Keep HC                                    | 200 |
 | Feet            | [Sandals of Crimson Fury](https://wotlk.evowow.com/?item=44202)                        | The Wyrmrest Accord Rep                                | 200 |
 | Finger          | [Band of Guile](https://wotlk.evowow.com/?item=37694)                                  | The Culling of Stratholme HC                           | 200 |
-| Finger          | [Signet of Hopeful Light](https://wotlk.evowow.com/?item=37642)                        | Argent Crusade Rep                                     | 200 |
+| Finger          | [Band of Channeled Magic](https://wotlk.evowow.com/?item=40719)                        | Emblem of Valor(25x)                                   | 213 |
 | Trinket         | [Spark of Life](https://wotlk.evowow.com/?item=37657)                                  | Halls of Stone HC                                      | 200 |
 | Trinket         | [Pendulum of Telluric Currents](https://wotlk.evowow.com/?item=37264)                  | The Oculus HC                                          | 200 |
 | Main Hand       | [Staff of Draconic Combat](https://wotlk.evowow.com/?item=37360)                       | The Oculus HC                                          | 200 |
@@ -48,6 +48,8 @@
 
 |  Slot           |  Other Viable Options                                                             | Purpose             |
 |-----------------|-----------------------------------------------------------------------------------|---------------------|
+| Finger          | [Signet of Hopeful Light](https://wotlk.evowow.com/?item=37642)                   | If No Valros        |
+| Finger          | [Annhylde's Ring](https://wotlk.evowow.com/?item=37192)                           | If No Valros        |
 | Trinket         | [Soul Preserver](https://wotlk.evowow.com/?item=37111)                            | Mana Management     |
 | Trinket         | [Figurine - Sapphire Owl](https://wotlk.evowow.com/?item=42413)                   | Mana Management     |
 
