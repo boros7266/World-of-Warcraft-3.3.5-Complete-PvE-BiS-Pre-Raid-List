@@ -59,13 +59,13 @@
 |-----------------|----------------------------------------------------------------------------------------|--------------------------------|----------------------------|
 | Head            | [Titan-Forged Leather Helm of Dominance](https://wotlk.evowow.com/?item=44907)         | Wintergrasp Mark of Honor(40x) | 200                        |
 | Neck            | [Encircling Burnished Gold Chains](https://wotlk.evowow.com/?item=40680)               | Emblem of Heroism(25x)         | 200                        |
-| Shoulders       | [Dark Runic Mantle](https://wotlk.evowow.com/?item=37673)                              | BOE Halls of Stone HC          | 200                        |
+| Shoulders       | [Amice of the Convoker](https://wotlk.evowow.com/?item=34210)                          | Sunwell Plateau Twins          | 159                        |
 | Back            | [Deathchill Cloak](https://wotlk.evowow.com/?item=41610)                               | BOE Tailoring                  | 200                        |
 | Chest           | [Heroes' Dreamwalker Vestments](https://wotlk.evowow.com/?item=39547)                  | Emblem of Heroism(80x)         | 200                        |
 | Wrists          | [Azure Cloth Bindings](https://wotlk.evowow.com/?item=37884)                           | The Violet Hold HC             | 200                        |
 | Hands           | [Ebonweave Gloves](https://wotlk.evowow.com/?item=42111)                               | BOE Tailoring                  | 200                        |
 | Waist           | [Plush Sash of Guzbah](https://wotlk.evowow.com/?item=40696)                           | Emblem of Heroism(40x)         | 200                        |
-| Legs            | [Leggings of the Winged Serpent](https://wotlk.evowow.com/?item=37791)                 | Dark'Tharon Keep HC            | 200                        |
+| Legs            | [Leggings of Calamity](https://wotlk.evowow.com/?item=34181)                           | Sunwell Plateau Brutallus      | 159                        |
 | Feet            | [Sandals of Crimson Fury](https://wotlk.evowow.com/?item=44202)                        | The Wyrmrest Accord Rep        | 200                        |
 | Finger          | [Titanium Spellshock Ring](https://wotlk.evowow.com/?item=42644)                       | BOE Jewelcrafting              | 200                        |
 | Finger          | [Band of Guile](https://wotlk.evowow.com/?item=37694)                                  | The Culling of Stratholme HC   | 200                        |
@@ -79,6 +79,8 @@
 |-----------------|-----------------------------------------------------------------------------------|---------------------|
 | Helm            | [Battlemap Hide Helm](https://wotlk.evowow.com/?item=37180)                       | Cheaper             |
 | Neck            | [Necklace of Taldaram](https://wotlk.evowow.com/?item=37595)                      | Hit                 |
+| Shoulders       | [Dark Runic Mantle](https://wotlk.evowow.com/?item=37673)                         | If No TBC           |
+| Legs            | [Leggings of the Winged Serpent](https://wotlk.evowow.com/?item=37791)            | If No TBC           |
 | Main Hand       | [Titansteel Spellblade](https://wotlk.evowow.com/?item=45085)                     | Hit                 |
 
 **Rawr:**
