@@ -30,7 +30,7 @@
 |  Slot           | Name                                                                                   | Source                                                 | iLv |
 |-----------------|----------------------------------------------------------------------------------------|--------------------------------------------------------|-----|
 | Head            | [Helm of Anomalus](https://wotlk.evowow.com/?item=37149)                               | The Nexus HC                                           | 200 |
-| Neck            | [Necromancer's Amulet](https://wotlk.evowow.com/?item=40678)                           | The Culling of Stratholme HC                           | 200 |
+| Neck            | [Necromancer's Amulet](https://wotlk.evowow.com/?item=37683)                           | The Culling of Stratholme HC                           | 200 |
 | Shoulders       | [Dark Runic Mantle](https://wotlk.evowow.com/?item=37673)                              | BOE Halls of Stone HC                                  | 200 |
 | Back            | [Ancient Dragon Spirit Cape](https://wotlk.evowow.com/?item=37291)                     | The Oculus HC                                          | 200 |
 | Chest           | [Insect Vestments](https://wotlk.evowow.com/?item=37236)                               | Azjon-Nerub HC                                         | 200 |
@@ -48,7 +48,7 @@
 
 |  Slot           |  Other Viable Options                                                             | Purpose             |
 |-----------------|-----------------------------------------------------------------------------------|---------------------|
-| Finger          | [Signet of Hopeful Light](https://wotlk.evowow.com/?item=37642)                   | If No Valros        |
+| Finger          | [Signet of Hopeful Light](https://wotlk.evowow.com/?item=44283)                   | If No Valros        |
 | Finger          | [Annhylde's Ring](https://wotlk.evowow.com/?item=37192)                           | If No Valros        |
 | Trinket         | [Soul Preserver](https://wotlk.evowow.com/?item=37111)                            | Mana Management     |
 | Trinket         | [Figurine - Sapphire Owl](https://wotlk.evowow.com/?item=42413)                   | Mana Management     |
